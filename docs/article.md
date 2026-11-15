@@ -35,9 +35,10 @@ Figure 3: Volcano plot showing the significant genes expressed for preeclampsia 
 
 [Figure 4: Venn diagram showing the overlap in differential gene expression in three comparisons (early vs late, early vs. control, and late vs. control).
 
-Unanswered Questions
+Unanswered Questions:
 The analysis revealed some differences regarding early and late-onset preeclampsia, but it was not able to determine if preeclampsia causes early delivery. We analyzed fetal growth as a binary variable, but it would be interesting to look at the mass of the baby at delivery to determine if cases that show greater severity in the marker genes are related to restriction in growth, specifically in the early-onset cases. The late-onset cases would also be valuable in exploring how much of a difference early onset vs. late onset has on fetal growth and development. Additionally, exploring blood pressure would be extremely valuable in diagnosis if this may help characterize severity or late vs. early onset.
-Conclusions, Limitations and Next Steps
+
+Conclusions, Limitations and Next Steps:
 For analysis of early versus late, counts were summed across all cell types within each donor, leading to a limitation in a differential expression analysis, as differences could reflect shifts in cell-type composition rather than within-cell-type changes.
 Future directions would include further analysis regarding early and late-onset preeclampsia. The initial exploratory analysis offered some insights about possible pathways that differ, but analyzing bulk RNA would not be limited as our study had.
 Data and Code
