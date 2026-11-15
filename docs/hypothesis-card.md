@@ -1,5 +1,3 @@
-Dataset(s) and Relevant Cells
-
 Preeclampsia is one of the leading causes of maternal and infant illness and mortality, affecting an estimated 2-8% of all pregnancies worldwide. It is characterized by high blood pressure, high levels of protein in urine that indicate kidney damage, or other signs of organ damage. Proteinuria is due to injury to the kidney’s filtering units, as a result of systemic endothelial dysfunction. Symptoms include severe headache, visual disturbances, upper abdominal pain, and sudden swelling. 
 
 In early-onset preeclampsia, trophoblast cells fail to properly invade and remodel the maternal spiral arteries, leading to placental hypoperfusion and hypoxia. This causes an imbalance in angiogenesis, the process by which new blood vessels develop from pre-existing ones, characterized by elevated anti-angiogenic soluble FLT1 (sFLT1) and soluble endoglin (sEng) and reduced placental growth factor (PlGF) (Tomimatsu et al., 2017; Venkatesha et al., 2006). Late-onset preeclampsia shows a milder version of this imbalance and is thought to arise more from maternal cardiovascular and metabolic susceptibility. In both, many people have no early warning signs, which is why routine prenatal blood pressure and urine checks are critical, as diagnosis depends on detecting new hypertension.
@@ -21,8 +19,9 @@ Decidual NK cells are the most abundant immune cells at the maternal–fetal int
 
 
 
-Why the Result Is Biologically Plausible
+Why the Result Is Biologically Plausible?
 Our top hit, ENG, relates to PE in that placenta-derived soluble endoglin is elevated in preeclampsia and causes hypertension and proteinuria in animal models (Venkatesha et al., 2006), alongside sFLT1 (Maynard et al., 2003). The strength of this signal in early-onset cases fits early-onset PE being mainly placental in origin (Burton et al., 2019). HTRA4 and SERPINA3 have been reported as upregulated in PE placenta, and ERO1A and TMEM45A are hypoxia-induced genes, consistent with a poorly perfused placenta.
+
 Alternative explanations / confounders
 Fetal growth restriction: FGR overlaps with PE and shares placental pathology.
 Cell composition: Although the gene browser shows which cell types express each gene, bulk data cannot distinguish between more of those cells and higher expression per cell.
