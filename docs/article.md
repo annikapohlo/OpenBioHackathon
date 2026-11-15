@@ -17,12 +17,12 @@ By: Christine Le, Annika Pohlo, Jessica Li
 ---
 Figure 1. Table of the top 10 differentially expressed genes. baseMean is a gene’s average normalized count across all samples, roughly how many reads it gets in a typical sample. The highlighted gene, GPIHBP1, has a moderate base mean. 
 Introduction
----
+
 Preeclampsia is one of the leading causes of maternal and infant illness and mortality, affecting an estimated 2-8% of all pregnancies worldwide. It is characterized by high blood pressure, high levels of protein in urine that indicate kidney damage, or other signs of organ damage. Often classified into two categories, we examine whether early-onset preeclampsia and late-onset preeclampsia tell different biological stories. 
----
+
 The Data and Our Methods
 Our data comes from a public study of 30 placentas collected at delivery. From these placentas, researchers took a piece of villous tissue, the part of the placenta that exchanges nutrients with the mother’s blood. Bulk RNA sequencing was then used to measure a whole tissue piece at once. Then, from the metadata table describing the pregnancy, we compared two groups. Our group column was the preeclampsia status of the pregnancy; the control was no preeclampsia, and the case was those with preeclampsia. Our covariates were the weeks of pregnancy at delivery and maternal age. Then, we ran a differential expression analysis, setting the adjusted p-value cutoff to 0.05 and the log2 fold change cutoff to 0.5. Using the single-cell data, we pseudobulked the counts for each donor to have a count of each gene. We repeated this method for the comparison of early vs. late-onset preeclampsia using the pseudobulk data. 
----
+
 What We Found
 When we compared placentas from pregnancies with preeclampsia to those without, we tested 26, 485 genes to determine which ones were more or less active. Gene activity means how much mRNA a gene produced, so more mRNA means the gene was more active. We measured this as “fold change”, which tells you how many times higher or lower a gene’s activity was in one group compared to the other. 
 Using our adjusted p-value cutoff of 0.05 and log2 fold change cutoff of 0.5, we found that 836 genes passed. 512 were higher in pregnancies with preeclampsia, and 324 were lower. Among the strongest results were ENG, SERPINA3, and HTRA4. ENG had a log2 fold change of 2 and an adjusted p-value of 1.22e-17. ENG is involved in vascular signaling and provides instructions for making a protein called endoglin, which is found on the surface of cells, especially in the lining of developing arteries. SERPINA3, an encoder for a plasma serine protease inhibitor, had an even higher log2 fold change of 6 and an adjusted p-value of 2.87e-18. HTRA4, which encodes a secreted serine protease (an enzyme that cleaves peptide bonds in proteins), had a log2 fold change of 2.69 and an adjusted p-value of 1.93e-14. 
