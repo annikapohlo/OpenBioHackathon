@@ -6,8 +6,6 @@ In early-onset preeclampsia, trophoblast cells fail to properly invade and remod
 
 Often classified into two categories, we additionally explored the expression differences in early-onset preeclampsia and late-onset preeclampsia.
 
-Which datasets and cell types are involved?
-Observed Result
 We used datasets from GSE203507, a public bulk RNA sequencing study of placentas collected at delivery. Villous tissue was taken from 30 patients, 15 of those with preeclampsia. Fetal growth restriction was also characterized in 5 of 15 non preeclampsia placentas and 7 of the preeclampsia placentas. The data contains multiple samples from multiple tissues. The Zeisel/Admati Gene Browser was used to interpret the cell types observed in our analysis. Additionally, we used single cell RNA seq data from the Admati/Skarbianskis study, which measured 86,752 individual placental cells from 26 donors.
 
 What did your analysis show? Be specific about the genes and cell types.
