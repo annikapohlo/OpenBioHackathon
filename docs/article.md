@@ -33,7 +33,7 @@ Figure 2:  PCA plots for preeclampsia versus control and early onset and clinica
 
 Figure 3: Volcano plot showing the significant genes expressed for preeclampsia versus control and early onset versus late onset preeclampsia.
 
-[Figure 4: Venn diagram showing the overlap in differential gene expression in three comparisons (early vs late, early vs. control, and late vs. control).
+Figure 4: Venn diagram showing the overlap in differential gene expression in three comparisons (early vs late, early vs. control, and late vs. control).
 
 Unanswered Questions:
 The analysis revealed some differences regarding early and late-onset preeclampsia, but it was not able to determine if preeclampsia causes early delivery. We analyzed fetal growth as a binary variable, but it would be interesting to look at the mass of the baby at delivery to determine if cases that show greater severity in the marker genes are related to restriction in growth, specifically in the early-onset cases. The late-onset cases would also be valuable in exploring how much of a difference early onset vs. late onset has on fetal growth and development. Additionally, exploring blood pressure would be extremely valuable in diagnosis if this may help characterize severity or late vs. early onset.
