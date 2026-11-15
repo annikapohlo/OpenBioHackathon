@@ -1,9 +1,3 @@
-Hypothesis Card
-Marker genes of proliferating cells in the preeclamptic placenta
-Title
-Clinical/Biological Problem
-What clinical or biological problem does this hypothesis address?
-
 Dataset(s) and Relevant Cells
 
 Preeclampsia is one of the leading causes of maternal and infant illness and mortality, affecting an estimated 2-8% of all pregnancies worldwide. It is characterized by high blood pressure, high levels of protein in urine that indicate kidney damage, or other signs of organ damage. Proteinuria is due to injury to the kidney’s filtering units, as a result of systemic endothelial dysfunction. Symptoms include severe headache, visual disturbances, upper abdominal pain, and sudden swelling. 
